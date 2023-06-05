@@ -70,7 +70,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nuxtjs,bootstrap,css,express,figma,github,html,js,materialui,mysql,nextjs,nodejs,postman,react,redux,ts,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,figma,github,html,js,materialui,mysql,nextjs,nodejs,postman,react,ts,vscode&perline=8" />
   </a>
 </p>
 

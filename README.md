@@ -17,7 +17,7 @@
   </ul>
 </div>
 
-- 🔭 I’m currently working on **React, NextJs, PHP, Styled Components, NodeJS, SCSS, WordPress and Typescript**
+- 🔭 I’m currently working on **React, NextJs, PHP, Styled Components, NodeJS, SCSS, WordPress and Typescript**.
 
 - 🌱 I’m currently learning **React Native, Nuxt.js and Project Management**.
 
